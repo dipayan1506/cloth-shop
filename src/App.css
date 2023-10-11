@@ -1,3 +1,16 @@
- body{
-  font-family: open sans;
- }
+body {
+    /* font-family: 'Caveat'; */
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+    padding: 20px 5px;
+  }
+  
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+  
+
+
+  
